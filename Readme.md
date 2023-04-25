@@ -11,7 +11,7 @@ This repository requires `junit`, and the `junit.xml` file can be found in `.ide
 
 # Regex
 ## `String` prototype
-Several methods are compatible with `regex`.
+Several methods are compatible with `regex` from [oracle doc](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)
 ```java
 String regex = "[0-9]+";
 String str = "4353.5490";
